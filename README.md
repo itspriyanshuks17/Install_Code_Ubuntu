@@ -117,4 +117,3 @@ You have successfully installed Visual Studio Code on your Ubuntu system using e
 
 If you encounter any issues during the installation, feel free to seek assistance or consult the official documentation at `https://code.visualstudio.com/docs/setup/linux`.
 
----
